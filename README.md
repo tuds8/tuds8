@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tuds8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tudor (@tuds8)
+- 👀 I’m interested in C/C++ | Java | Python | Machine Learning
+- 🌱 I’m currently learning C++ OOP
+- 💞️ I’m looking to collaborate on future projects
+- 📫 How to reach me: contact me on email
 
 <!---
 tuds8/tuds8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
