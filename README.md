@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tudor (@tuds8)
-- 👀 I’m interested in C/C++ | Java | Python | Machine Learning
-- 🌱 I’m currently learning C++ OOP
+- 👀 I’m interested in AI | Python | Machine Learning
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me: contact me on email
 
